@@ -1,0 +1,48 @@
+  
+*
+{
+padding: 0px;
+margin: 0px;
+}
+.outer
+{
+    width: 700px;
+    height: 800px;
+    margin: 0px auto;
+}
+.outer h1
+{
+    text-align: center;
+}
+P{
+    font-size-adjust: 50px;
+}
+.border
+{
+    width: 100%;
+    padding: 5px;
+    background-color: rgb(165, 161, 161);
+    border: 1px solid black;
+    font-weight: bold;
+}
+ul
+{
+    font-size-adjust: 20px;
+    margin-left: 60px;
+}
+h2
+{
+    float: right;
+}
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
